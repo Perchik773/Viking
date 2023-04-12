@@ -1,0 +1,68 @@
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\Viking.exe
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\Viking.deps.json
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\Viking.runtimeconfig.json
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\Viking.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\Viking.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.Form1.resources
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.GenerateResource.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.AssemblyInfoInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.AssemblyInfo.cs
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.CopyComplete
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\refint\Viking.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.genruntimeconfig.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\ref\Viking.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.Creating_an_entryForm.resources
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний\Viking\Viking\obj\Debug\net6.0-windows\Viking.Properties.Resources.resources
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\Viking.exe
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\Viking.deps.json
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\Viking.runtimeconfig.json
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\Viking.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\Viking.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.AssemblyReference.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.Creating_an_entryForm.resources
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.Form1.resources
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.Properties.Resources.resources
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.GenerateResource.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.AssemblyInfoInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.AssemblyInfo.cs
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.CoreCompileInputs.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.csproj.CopyComplete
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\refint\Viking.dll
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.pdb
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\Viking.genruntimeconfig.cache
+C:\Users\lekto\OneDrive\Рабочий стол\ВикингПоследний — копия\Viking\Viking\obj\Debug\net6.0-windows\ref\Viking.dll
